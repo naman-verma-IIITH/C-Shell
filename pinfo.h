@@ -1,0 +1,1 @@
+void pinfo(long long int n, char *commarg[]);

@@ -1,0 +1,1 @@
+void kjob(long long n, char * commarg[]);
